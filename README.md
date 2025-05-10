@@ -18,5 +18,5 @@ Chào mừng bạn đến với **RoseBeauty-Ecommerce** - dự án thương m�
 - Tích hợp thanh toán an toàn.
 
 ## 🔗 Liên kết hữu ích
-- https://www.figma.com/design/n6kuo4PD0ReVxpUSpEfDXg/qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-m%E1%BB%B9-ph%E1%BA%A9m?node-id=1975-5080&t=752fUwac7nqxBwuU-0
+-Link Figma: https://www.figma.com/design/MLTSw71qb8jBc4bV7bBAwW/RoseBeauty?node-id=1-3&p=f&t=i9XuorEkzW3DNQMi-0
 *Dự án được phát triển bởi Trương Thị Mỹ Hồng
